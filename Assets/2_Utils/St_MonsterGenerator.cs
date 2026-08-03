@@ -158,12 +158,12 @@ public class St_MonsterGenerator : MonoBehaviour
             // 기본 체력에 라운드 가중치를 부여하여 체력과 공격력을 강화한다
             // 한 라운드 당 체력을 hpIncreasePercentage% 만큼 강화
             var hpMultiply = hpIncreasePercentage / 100f;
-            var newHP = inst.currHP + inst.currHP * hpMultiply;
+            var newHP = inst.currHP + inst.currHP * hpMultiply * St_GameManager.Inst.currentRound;
             inst.currHP = newHP;
 
             //  한 라운드 당 공격력을 damageIncreasePercentage% 만큼 강화
             var damageMultiply = damageIncreasePercentage / 100f;
-            var newDamage = inst.currAttackDamage + inst.currAttackDamage * damageMultiply;
+            var newDamage = inst.currAttackDamage + inst.currAttackDamage * damageMultiply * St_GameManager.Inst.currentRound;
             inst.currAttackDamage = newDamage;
         }
     }
