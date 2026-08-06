@@ -82,7 +82,6 @@ public class St_CameraController : MonoBehaviour
 
         // Time.deltaTime * rotationLerpSpeed 속도로 회전 각도 선형 변환
         camRot = Mathf.LerpAngle(camRot, targetRot, Time.deltaTime * rotationLerpSpeed);
-        //camRot = targetRot;
 
         T.Identity(ref camMatrix);
         T.Translate(ref camMatrix, targetPos);
