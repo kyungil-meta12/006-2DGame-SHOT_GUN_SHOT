@@ -38,10 +38,10 @@
 
 ## 주요 스크린샷
 <p>
-<img width="1138" height="628" alt="Image" src="https://github.com/user-attachments/assets/2e81daa2-0545-4d5d-a467-088188f86fa6" />
-<img width="1138" height="628" alt="Image" src="https://github.com/user-attachments/assets/5c7856e1-9daa-423e-b637-5da8833f62e4" />
-<img width="1138" height="628" alt="Image" src="https://github.com/user-attachments/assets/66619ca3-3b70-404f-9216-bdf7d78bbce9" />
-<img width="1138" height="628" alt="Image" src="https://github.com/user-attachments/assets/b766a92b-f07d-48c3-9686-b8909cb56f8c" />
+<img width="75%" alt="Image" src="https://github.com/user-attachments/assets/2e81daa2-0545-4d5d-a467-088188f86fa6" />
+<img width="75%" alt="Image" src="https://github.com/user-attachments/assets/5c7856e1-9daa-423e-b637-5da8833f62e4" />
+<img width="75%" alt="Image" src="https://github.com/user-attachments/assets/66619ca3-3b70-404f-9216-bdf7d78bbce9" />
+<img width="75%" alt="Image" src="https://github.com/user-attachments/assets/b766a92b-f07d-48c3-9686-b8909cb56f8c" />
 
 <br><br>
 
